@@ -1,4 +1,4 @@
-Project Name: EasyDictionary
+Project Name: EasyDictionary  
 Project Type: Mobile Application
 Tutorial Followed: https://youtu.be/LM5lWetuCHo?si=l_l2D-J6DWki5io_
 Langauge used: Kotlin
